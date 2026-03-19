@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiendaPromElec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ad4b1527402d56c92c0a4435adeced5406f92d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiendaPromElec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiendaPromElec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
